@@ -8,6 +8,7 @@ DESCRIPTION  = 'Semi-empirical methods for PySCF'
 SO_EXTENSIONS = {'pyscf.lib.libsemiempirical': ['pyscf/semiempirical/repp.c', 'pyscf/semiempirical/rotate.c']}
 DEPENDENCIES = ['pyscf', 'numpy']
 
+#blank line
 #######################################################################
 # Unless not working, nothing below needs to be changed.
 metadata = globals()
