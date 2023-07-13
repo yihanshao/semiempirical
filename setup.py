@@ -9,6 +9,7 @@ SO_EXTENSIONS = {'pyscf.lib.libsemiempirical': ['pyscf/semiempirical/repp.c', 'p
 DEPENDENCIES = ['pyscf', 'numpy']
 
 ##blank line
+#another blank line
 #######################################################################
 # Unless not working, nothing below needs to be changed.
 metadata = globals()
